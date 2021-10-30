@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Surendran6/sb-admin.git/static/css/main.98c2a9b8.chunk.css",
+    "main.js": "/Surendran6/sb-admin.git/static/js/main.5638568c.chunk.js",
+    "main.js.map": "/Surendran6/sb-admin.git/static/js/main.5638568c.chunk.js.map",
+    "runtime-main.js": "/Surendran6/sb-admin.git/static/js/runtime-main.502ddff7.js",
+    "runtime-main.js.map": "/Surendran6/sb-admin.git/static/js/runtime-main.502ddff7.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Surendran6/sb-admin.git/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.e2bc347b.chunk.js": "/Surendran6/sb-admin.git/static/js/2.e2bc347b.chunk.js",
+    "static/js/2.e2bc347b.chunk.js.map": "/Surendran6/sb-admin.git/static/js/2.e2bc347b.chunk.js.map",
+    "static/js/3.3ed39b11.chunk.js": "/Surendran6/sb-admin.git/static/js/3.3ed39b11.chunk.js",
+    "static/js/3.3ed39b11.chunk.js.map": "/Surendran6/sb-admin.git/static/js/3.3ed39b11.chunk.js.map",
+    "index.html": "/Surendran6/sb-admin.git/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/Surendran6/sb-admin.git/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.98c2a9b8.chunk.css.map": "/Surendran6/sb-admin.git/static/css/main.98c2a9b8.chunk.css.map",
+    "static/js/2.e2bc347b.chunk.js.LICENSE.txt": "/Surendran6/sb-admin.git/static/js/2.e2bc347b.chunk.js.LICENSE.txt",
+    "static/media/calendar.583b580c.png": "/Surendran6/sb-admin.git/static/media/calendar.583b580c.png",
+    "static/media/danger.b3898a16.png": "/Surendran6/sb-admin.git/static/media/danger.b3898a16.png",
+    "static/media/dollar-symbol.4dfdab18.png": "/Surendran6/sb-admin.git/static/media/dollar-symbol.4dfdab18.png",
+    "static/media/hard-work.8e1fe55b.png": "/Surendran6/sb-admin.git/static/media/hard-work.8e1fe55b.png",
+    "static/media/img1.1de81edc.png": "/Surendran6/sb-admin.git/static/media/img1.1de81edc.png",
+    "static/media/img2.17bc7d4e.png": "/Surendran6/sb-admin.git/static/media/img2.17bc7d4e.png",
+    "static/media/img3.84e32a7e.png": "/Surendran6/sb-admin.git/static/media/img3.84e32a7e.png",
+    "static/media/img5.83ea7e4d.png": "/Surendran6/sb-admin.git/static/media/img5.83ea7e4d.png",
+    "static/media/money-bag.12448ec3.png": "/Surendran6/sb-admin.git/static/media/money-bag.12448ec3.png",
+    "static/media/pending.8a9a9d67.png": "/Surendran6/sb-admin.git/static/media/pending.8a9a9d67.png",
+    "static/media/task.f5c1e745.png": "/Surendran6/sb-admin.git/static/media/task.f5c1e745.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.502ddff7.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.e2bc347b.chunk.js",
+    "static/css/main.98c2a9b8.chunk.css",
+    "static/js/main.5638568c.chunk.js"
+  ]
+}
